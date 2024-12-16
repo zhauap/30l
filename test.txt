@@ -1,1 +1,1 @@
-python academica
+Academica courses
